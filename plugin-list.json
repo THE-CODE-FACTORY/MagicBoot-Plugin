@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Internet Check",
+        "author": "Marc Stirner",
+        "repository": "https://github.com/mStirner/mb-p-internet-check.git",
+        "description": "Check if internet connection is available and display 'Server Error' overlay when not. See the repository for more information about the configuration."
+    }
+]
